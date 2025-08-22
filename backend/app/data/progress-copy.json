@@ -1,0 +1,264 @@
+{
+  "eco_points": 0,
+  "badges": [
+    "Litter Helper"
+  ],
+  "completed": [
+    {
+      "id": "chat-1755867946056",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "chat-1755867956856",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Collect 5 pieces of litter"
+      },
+      "points": 5,
+      "badge": "Litter Helper"
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Save water for a day"
+      },
+      "points": 8,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Turn Off the Tap"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Light Switch Hero"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "c3",
+      "kind": "challenge",
+      "details": {
+        "title": "Lunchbox Waste Checker"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "c3",
+      "kind": "challenge",
+      "details": {
+        "title": "Lunchbox Waste Checker"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "c5",
+      "kind": "challenge",
+      "details": {
+        "title": "Recycling Detective"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "c5",
+      "kind": "challenge",
+      "details": {
+        "title": "Recycling Detective"
+      },
+      "points": 10,
+      "badge": "Leaf Starter"
+    },
+    {
+      "id": "chat-1755868172081",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "chat-1755868760080",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Collect 5 pieces of litter"
+      },
+      "points": 5,
+      "badge": "Litter Helper"
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Save water for a day"
+      },
+      "points": 8,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "quiz-1755869573970",
+      "kind": "quiz",
+      "details": {
+        "topic": "Saving Water",
+        "score": 1
+      },
+      "points": 2,
+      "badge": "Eco Learner"
+    },
+    {
+      "id": "chat-1755869943543",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "chat-1755870173863",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "quiz-1755870194910",
+      "kind": "quiz",
+      "details": {
+        "topic": "Saving Water",
+        "score": 0
+      },
+      "points": 0,
+      "badge": null
+    },
+    {
+      "id": "chat-1755870277752",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Save water for a day"
+      },
+      "points": 8,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Collect 5 pieces of litter"
+      },
+      "points": 5,
+      "badge": "Litter Helper"
+    },
+    {
+      "id": "c3",
+      "kind": "challenge",
+      "details": {
+        "title": "Mini Litter Hunt"
+      },
+      "points": 10,
+      "badge": "Clean-Up Champ"
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Reusable Bottle Buddy"
+      },
+      "points": 10,
+      "badge": "Plastic Buster"
+    },
+    {
+      "id": "c4",
+      "kind": "challenge",
+      "details": {
+        "title": "Nature Note"
+      },
+      "points": 10,
+      "badge": "Nature Explorer"
+    },
+    {
+      "id": "c5",
+      "kind": "challenge",
+      "details": {
+        "title": "Shorter Shower Star"
+      },
+      "points": 10,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "chat-1755882942611",
+      "kind": "chat",
+      "details": {},
+      "points": 2,
+      "badge": null
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Turn Off the Tap"
+      },
+      "points": 10,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Turn Off the Tap"
+      },
+      "points": 10,
+      "badge": "Water Saver"
+    },
+    {
+      "id": "c2",
+      "kind": "challenge",
+      "details": {
+        "title": "Lights Out"
+      },
+      "points": 10,
+      "badge": "Energy Hero"
+    },
+    {
+      "id": "c3",
+      "kind": "challenge",
+      "details": {
+        "title": "Recycling Detective"
+      },
+      "points": 10,
+      "badge": "Recycle Ranger"
+    }
+  ]
+}
