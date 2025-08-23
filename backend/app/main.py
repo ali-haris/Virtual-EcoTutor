@@ -2,6 +2,9 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from .routers import chat, quizzes, challenges, progress
 import logging
+import openai
+print(">>> OpenAI version:", openai.__version__)
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("green-mentor")
