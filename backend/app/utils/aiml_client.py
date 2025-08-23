@@ -10,7 +10,11 @@ api_key = os.getenv("AIML_API_KEY", "")
 system_prompt = os.getenv("SYSTEM_PROMPT", "You are Green Mentor.")
 
 # Use the exact API structure requested
-api = OpenAI(api_key=api_key, base_url=base_url)
+if base_url:
+    api = OpenAI(api_key=api_key, base_url=base_url)
+else:
+    api = OpenAI(api_key=api_key)
+# api = OpenAI(api_key=api_key, base_url=base_url)
 
 def gpt_chat(user_prompt: str, temperature: float = 0.7, max_tokens: int = 256, system_prompt_override: str | None = None) -> str:
     sp = system_prompt_override if system_prompt_override else system_prompt
