@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routers import chat, quizzes, challenges, progress
+from .routers import chat, quizzes, challenges, progress
 import logging
 
 logging.basicConfig(level=logging.INFO)
