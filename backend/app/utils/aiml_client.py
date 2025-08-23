@@ -4,17 +4,16 @@ from openai import OpenAI
 
 load_dotenv()
 
-base_url = os.getenv("AIML_BASE_URL", "https://api.aimlapi.com/v1")
+base_url = os.getenv("AIML_BASE_URL", "")
 api_key = os.getenv("AIML_API_KEY", "")
 
 system_prompt = os.getenv("SYSTEM_PROMPT", "You are Green Mentor.")
 
-# Use the exact API structure requested
-if base_url:
+# Only set base_url if it's not empty and not the default OpenAI endpoint
+if base_url and not base_url.startswith("https://api.openai.com"):
     api = OpenAI(api_key=api_key, base_url=base_url)
 else:
     api = OpenAI(api_key=api_key)
-# api = OpenAI(api_key=api_key, base_url=base_url)
 
 def gpt_chat(user_prompt: str, temperature: float = 0.7, max_tokens: int = 256, system_prompt_override: str | None = None) -> str:
     sp = system_prompt_override if system_prompt_override else system_prompt
