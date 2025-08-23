@@ -43,8 +43,33 @@ function ProgressBar() {
   const { state } = useProgress()
   return (
     <div className="card" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-      <div><strong>Eco-Coins 🌿:</strong> {state.eco_points}</div>
-      <div style={{ display: 'flex', gap: '.4rem', flexWrap: 'wrap' }}>
+ <div style={{alignItems: 'center', gap: '0.3rem' }}>
+        <span
+          style={{
+            fontWeight: 'bold',
+            fontSize: '1.2rem',
+            background: 'linear-gradient(90deg, #4caf50, #8bc34a)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            letterSpacing: '1px'
+          }}
+        >
+          Eco-Coins 🌿:
+        </span>
+        <span
+          style={{
+            fontWeight: 'bold',
+            fontSize: '1.2rem',
+            background: 'linear-gradient(90deg, #FFD700, #FFA500)',
+            WebkitBackgroundClip: 'text',
+            WebkitTextFillColor: 'transparent',
+            textShadow: '0px 2px 4px rgba(255, 215, 0, 0.4)'
+          }}
+        >
+          {state.eco_points}
+        </span>
+      </div>
+      <div style={{ display: 'flex', gap: '.6rem', flexWrap: 'wrap' }}>
         {state.badges.map(b => <span key={b} className="progress-pill">{b}</span>)}
       </div>
     </div>

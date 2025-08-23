@@ -30,6 +30,7 @@ export default function Challenges() {
     <div className="card">
       <div style={{display:'grid', gap:'.6rem'}}>
         <div style={{display:'flex', gap:'.5rem', alignItems:'center', flexWrap:'wrap'}}>
+          <div><strong>Your Age </strong></div>
           <input className="input" type="number" value={age} onChange={e=>setAge(e.target.value)} min={5} max={15} style={{maxWidth:'120px'}} />
           <select className="input" value={difficulty} onChange={e=>setDifficulty(e.target.value)} style={{maxWidth:'220px'}}>
             <option value="easy">Easy</option>

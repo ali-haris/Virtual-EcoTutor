@@ -61,7 +61,7 @@ Return STRICT JSON ONLY in this format:
       "title": "string",
       "description": "string",
       "eco_points": 10,
-      "badge": "string with relevant icon"
+      "badge": "relevant meaningful eco-icon"
     }}
   ]
 }}
