@@ -2,8 +2,8 @@
     🌱 Eco Mentor
 </h1>
 <p align="center" style="font-size:18px; color:#555;">
-    <em>Regenerated with improvements and UI preserved</em><br>
-    Your friendly virtual sustainability mentor for children & young learners.
+    <em>🌱 Learn Green. Play Green. Live Green.</em><br>
+    Empowering Young Minds to Build a Greener Future.
 </p>
 
 <hr>
