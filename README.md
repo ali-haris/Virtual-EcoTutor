@@ -18,11 +18,11 @@ Eco Mentor is a GPT-5 powered virtual sustainability mentor for children and you
 1. **Backend:** FastAPI, Python
 2. **Frontend:** React 
 3. **Hosting and Deployment:** Vercel (frontend), Railway (backend)
-4. **Other:** GPT-5
+4. **Other:** GPT-5 (API), ChatGPT
 
 ## Team Roles
 1. [Ali Haris](https://github.com/ali-haris): Full Stack Developer
 2. [Bano Rani](https://github.com/Bano733-code) Prompt Engineering for kid-friendly tone  
-3. [Nissaf Sleimi](https://github.com/N2024-2025): 
+3. [Nissaf Sleimi](https://github.com/N2024-2025): Team Lead, Presentation 
 4. [Marium Noor Khetran](https://github.com/mariumnoorkhetran): Deployment 
    
