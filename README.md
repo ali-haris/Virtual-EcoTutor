@@ -25,7 +25,8 @@ Eco Mentor is a GPT-5 powered virtual sustainability mentor for children and you
    https://github.com/ali-haris
 2. Bano Rani: Prompt Engineering for kid-friendly tone
    https://github.com/Bano733-code
-4. Nissaf Sleimi:
-5. Marium Noor Khetran: Deployment
+3. Nissaf Sleimi:
+   https://github.com/N2024-2025
+4. Marium Noor Khetran: Deployment
    https://github.com/mariumnoorkhetran
    
