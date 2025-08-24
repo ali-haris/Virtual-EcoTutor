@@ -1,6 +1,5 @@
 # Green Mentor Chatbot v3 (FastAPI + React)
 
-Regenerated with improvements and UI preserved.
 
 ## Quickstart
 
