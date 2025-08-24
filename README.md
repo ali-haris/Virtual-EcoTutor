@@ -38,7 +38,7 @@ Clean chat interface with large buttons for kids.
 ## Team Roles
 1. [Ali Haris](https://github.com/ali-haris): Full Stack Developer
 2. [Bano Rani](https://github.com/Bano733-code) Prompt Engineering for kid-friendly tone  
-3. [Nissaf Sleimi](https://github.com/N2024-2025): Team Lead, Presentation 
+3. [Nissaf Sleimi](https://github.com/N2024-2025): Team Lead, design and business , Presentation 
 4. [Marium Noor Khetran](https://github.com/mariumnoorkhetran): Deployment 
    
 UI & Visual Design
