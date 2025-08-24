@@ -15,10 +15,10 @@ Eco Mentor is a GPT-5 powered virtual sustainability mentor for children and you
 2. GPT-5 enables dynamic context-aware interaction with high potential for engagement and learning.
 
 ## Tech Stack
-1. **Backend:** 
-2. **Frontend:**
-3. **Hosting and Deployment:**
-4. **Other:**
+1. **Backend:** FastAPI, Python
+2. **Frontend:** Next.js
+3. **Hosting and Deployment:** Vercel (frontend), Railway (backend)
+4. **Other:** GPT-5
 
 ## Team Roles
 1. [Ali Haris](https://github.com/ali-haris): Full Stack Developer
