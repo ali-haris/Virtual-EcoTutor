@@ -14,7 +14,7 @@ export default function Chat() {
     setLoading(true)
     setMessages(prev => [...prev, {role:'user', content:prompt}])
     try {
-      const res = await fetch(import.meta.env.VITE_API_URL + '/chat', {
+      const res = await fetch(import.meta.env.VITE_API_URL + '/chat/', {
         method: 'POST', headers: {'Content-Type':'application/json'},
         body: JSON.stringify({ question: prompt })
       })
