@@ -1,5 +1,47 @@
 {
-  "eco_points": 0,
-  "badges": [],
-  "completed": []
+  "eco_points": 40,
+  "badges": [
+    "\ud83d\udecd\ufe0f",
+    "\ud83e\udd6a",
+    "\ud83d\udca7",
+    "\ud83c\udf3f"
+  ],
+  "completed": [
+    {
+      "id": "c3",
+      "kind": "challenge",
+      "details": {
+        "title": "Reuse a Bag"
+      },
+      "points": 10,
+      "badge": "\ud83d\udecd\ufe0f"
+    },
+    {
+      "id": "c4",
+      "kind": "challenge",
+      "details": {
+        "title": "Snack Without Trash"
+      },
+      "points": 10,
+      "badge": "\ud83e\udd6a"
+    },
+    {
+      "id": "c1",
+      "kind": "challenge",
+      "details": {
+        "title": "Turn Off the Tap"
+      },
+      "points": 10,
+      "badge": "\ud83d\udca7"
+    },
+    {
+      "id": "c5",
+      "kind": "challenge",
+      "details": {
+        "title": "Nature Spotter"
+      },
+      "points": 10,
+      "badge": "\ud83c\udf3f"
+    }
+  ]
 }
